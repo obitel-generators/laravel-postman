@@ -10,7 +10,7 @@
         "export",
         "api"
     ],
-    "homepage": "https://github.com/jimenezmaximiliano/laravel-postman",
+    "homepage": "https://github.com/obitel-generators/laravel-postman",
     "license": "MIT",
     "authors": [
         {
