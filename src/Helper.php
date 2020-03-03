@@ -80,7 +80,7 @@ class Helper
             'variables' => [],
             'info' => [
                 'name' => $collectionName,
-                '_postman_id' => uniqid(),
+                '_postman_id' => uniqid('', true),
                 'description' => $collectionDescription,
                 'schema' => self::POSTMAN_SCHEMA,
             ],
