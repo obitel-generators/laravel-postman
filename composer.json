@@ -1,5 +1,5 @@
 {
-    "name": "jimenezmaximiliano/laravel-postman",
+    "name": "obitel-generators/laravel-postman",
     "type": "library",
     "description": "Export laravel API routes to postman",
     "keywords": [
